@@ -6,7 +6,7 @@
 /*   By: hrami <hrami@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/11 18:51:57 by hrami             #+#    #+#             */
-/*   Updated: 2024/11/18 11:26:21 by hrami            ###   ########.fr       */
+/*   Updated: 2024/11/21 23:23:53 by hrami            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,6 @@
 # include <stdarg.h>
 # include <unistd.h>
 # include <stdlib.h>
-# include <libc.h>
 
 # define L16 "0123456789abcdef"
 # define U16 "0123456789ABCDEF"
