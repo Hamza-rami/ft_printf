@@ -18,7 +18,7 @@ To use this implementation, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/printf.git
+(https://github.com/Hamza-rami/ft_printf)
 
 2. Navigate to the project directory:
 
